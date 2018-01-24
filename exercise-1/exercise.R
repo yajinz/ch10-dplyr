@@ -1,16 +1,10 @@
-# Exercise 1: Data Frame Practice
+### Exercise 1: Data Frame Practice
 
-# Install devtools package: allows installations from GitHub
-install.packages('devtools')
-
-# Install "fueleconomy" package from GitHub
-devtools::install_github("hadley/fueleconomy")
-
-# Require/library the fueleconomy package
+## This exercise need the "fueleconomy" package.  Install and load it.
+## You should have have access to the `vehicles` data.frame
+## install.packages("fueleconomy")
 library(fueleconomy)
-
-# You should have have access to the vehicles data.frame
-View(vehicles)
+## View(vehicles)  # if using rstudio
 
 # Create a data.frame of vehicles from 1997
 cars.1997 <- vehicles[vehicles$year==1997,]
