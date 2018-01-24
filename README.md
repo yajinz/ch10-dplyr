@@ -6,4 +6,4 @@ Exercises for [chapter 10](https://info201.github.io/dplyr.html).
 
 * 2: manipulate fuel economy data w/dplyr
 
-* 3: use and compare dplyr with and w/o pipes
+* 3: use and compare dplyr with and w/o pipes using fueleconomy data
