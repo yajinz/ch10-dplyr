@@ -1,16 +1,9 @@
-# Exercise 2: Data Frame Practice with `dplyr`.
-# Use a different appraoch to accomplish the same tasks as exercise-1
+### Exercise 2: Data Frame Practice with dplyr
 
-# Install devtools package: allows installations from GitHub
-install.packages('devtools')
+## This exercise need the "fueleconomy" package.  Install and load it.
+## You should have have access to the `vehicles` data.frame
 
-# Install "fueleconomy" package from GitHub
-devtools::install_github("hadley/fueleconomy")
-
-# Require/library the fueleconomy package
-
-# Install (if you haven't already) and load the `dplyr`package
-
+## Install (if you haven't already) and load the `dplyr`package
 
 # You should have have access to the `vehicles` data.frame
 
