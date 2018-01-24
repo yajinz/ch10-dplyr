@@ -1,18 +1,10 @@
-# Exercise 1: Data Frame Practice
+### Exercise 1: Data Frame Practice
 
-# Install devtools package: allows installations from GitHub
-install.packages('devtools')
-
-# Install "fueleconomy" package from GitHub
-devtools::install_github("hadley/fueleconomy")
-
-# Require/library the fueleconomy package
+## This exercise need the "fueleconomy" package.  Install and load it.
+## You should have have access to the `vehicles` data.frame
 
 
-# You should have have access to the `vehicles` data.frame
-
-
-# Create a data.frame of vehicles from 1997
+# Create a data.frame of vehicles from 1997 only
 
 
 # Use the `unique` function to verify that there is only 1 value in the `year` column of your new data.frame
