@@ -1,4 +1,4 @@
-### Exercise 1: Data Frame Practice with dplyr
+### Exercise 2: Data Frame Practice with dplyr
 
 ## This exercise need the "fueleconomy" package.  Install and load it.
 ## You should have have access to the `vehicles` data.frame
